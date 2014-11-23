@@ -1,0 +1,5 @@
+E:\Codes\CSharp\Csharp\CSharp\DelegateLamdbaEvent\bin\Debug\DelegateLamdbaEvent.exe.config
+E:\Codes\CSharp\Csharp\CSharp\DelegateLamdbaEvent\bin\Debug\DelegateLamdbaEvent.exe
+E:\Codes\CSharp\Csharp\CSharp\DelegateLamdbaEvent\bin\Debug\DelegateLamdbaEvent.pdb
+E:\Codes\CSharp\Csharp\CSharp\DelegateLamdbaEvent\obj\Debug\DelegateLamdbaEvent.exe
+E:\Codes\CSharp\Csharp\CSharp\DelegateLamdbaEvent\obj\Debug\DelegateLamdbaEvent.pdb

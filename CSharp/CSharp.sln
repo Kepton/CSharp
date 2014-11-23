@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{C8DD20C5-ABFF-4C25-AB04-BBB87672B05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateLamdbaEvent", "DelegateLamdbaEvent\DelegateLamdbaEvent.csproj", "{AA905E5B-75B9-4964-9EE1-B6EDBC286DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DD20C5-ABFF-4C25-AB04-BBB87672B05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DD20C5-ABFF-4C25-AB04-BBB87672B05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DD20C5-ABFF-4C25-AB04-BBB87672B05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DD20C5-ABFF-4C25-AB04-BBB87672B05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA905E5B-75B9-4964-9EE1-B6EDBC286DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA905E5B-75B9-4964-9EE1-B6EDBC286DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA905E5B-75B9-4964-9EE1-B6EDBC286DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA905E5B-75B9-4964-9EE1-B6EDBC286DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
