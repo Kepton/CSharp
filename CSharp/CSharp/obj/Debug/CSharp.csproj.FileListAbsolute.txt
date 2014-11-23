@@ -1,0 +1,6 @@
+E:\Codes\CSharp\Csharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+E:\Codes\CSharp\Csharp\CSharp\CSharp\bin\Debug\CSharp.exe
+E:\Codes\CSharp\Csharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.exe
+E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.pdb
