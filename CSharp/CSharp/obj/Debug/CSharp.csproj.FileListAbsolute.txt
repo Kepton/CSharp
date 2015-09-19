@@ -4,3 +4,9 @@ E:\Codes\CSharp\Csharp\CSharp\CSharp\bin\Debug\CSharp.pdb
 E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
 E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.exe
 E:\Codes\CSharp\Csharp\CSharp\CSharp\obj\Debug\CSharp.pdb
+D:\Code\C#\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+D:\Code\C#\CSharp\CSharp\CSharp\obj\Debug\CSharp.exe
+D:\Code\C#\CSharp\CSharp\CSharp\obj\Debug\CSharp.pdb
+D:\Code\C#\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe
+D:\Code\C#\CSharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+D:\Code\C#\CSharp\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
