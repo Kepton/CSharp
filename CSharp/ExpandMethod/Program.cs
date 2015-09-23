@@ -26,16 +26,21 @@ namespace ExpandMethod
             return "$" + Amount.ToString();
 
         }
+
+        public void Add(decimal kk)
+        {
+            this.Amount += 22222;
+        }
     }
     class Program
     {  
         static void Main(string[] args)
         {
             Money money = new Money();
-            money.Amount = 100000;
-
+            //money.Amount = 100000;
+            Console.WriteLine(money.Amount);
             money.Add(1000);
-            Console.Write(money.Amount);
+            Console.WriteLine(money.Amount);
             Console.ReadLine();
         }
     }

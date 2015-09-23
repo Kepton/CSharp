@@ -2,3 +2,4 @@ D:\Code\C#\CSharp\CSharp\ExpandMethod\bin\Debug\ExpandMethod.exe
 D:\Code\C#\CSharp\CSharp\ExpandMethod\bin\Debug\ExpandMethod.pdb
 D:\Code\C#\CSharp\CSharp\ExpandMethod\obj\Debug\ExpandMethod.exe
 D:\Code\C#\CSharp\CSharp\ExpandMethod\obj\Debug\ExpandMethod.pdb
+D:\Code\C#\CSharp\CSharp\ExpandMethod\obj\Debug\ExpandMethod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Code\C#\CSharp\CSharp\Inherit\bin\Debug\Inherit.exe
+D:\Code\C#\CSharp\CSharp\Inherit\bin\Debug\Inherit.pdb
+D:\Code\C#\CSharp\CSharp\Inherit\obj\Debug\Inherit.exe
+D:\Code\C#\CSharp\CSharp\Inherit\obj\Debug\Inherit.pdb
