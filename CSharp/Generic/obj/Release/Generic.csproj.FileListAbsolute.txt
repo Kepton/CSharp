@@ -1,0 +1,4 @@
+D:\Code\C#\CSharp\CSharp\Generic\bin\Release\Generic.exe
+D:\Code\C#\CSharp\CSharp\Generic\bin\Release\Generic.pdb
+D:\Code\C#\CSharp\CSharp\Generic\obj\Release\Generic.exe
+D:\Code\C#\CSharp\CSharp\Generic\obj\Release\Generic.pdb
